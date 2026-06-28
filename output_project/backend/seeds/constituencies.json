@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "ariyalur",
+    "name": "Ariyalur",
+    "constituencyNo": 1,
+    "districtId": "ariyalur",
+    "mlaName": "S. Rajendran",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.115,
+      79.055
+    ],
+    "population": "2,23,700",
+    "areaSqKm": 12.2
+  },
+  {
+    "id": "jayankondam",
+    "name": "Jayankondam",
+    "constituencyNo": 2,
+    "districtId": "ariyalur",
+    "mlaName": "G. Vaithilingam",
+    "mlaParty": "PMK",
+    "center": [
+      11.14,
+      79.08
+    ],
+    "population": "2,37,400",
+    "areaSqKm": 15.9
+  },
+  {
+    "id": "sholinganallur",
+    "name": "Sholinganallur",
+    "constituencyNo": 3,
+    "districtId": "chengalpattu",
+    "mlaName": "P. Saravanan",
+    "mlaParty": "TVK",
+    "center": [
+      12.584,
+      79.958
+    ],
+    "population": "2,51,100",
+    "areaSqKm": 19.6
+  },
+  {
+    "id": "alandur",
+    "name": "Alandur",
+    "constituencyNo": 4,
+    "districtId": "chengalpattu",
+    "mlaName": "M. Harish",
+    "mlaParty": "TVK",
+    "center": [
+      12.609,
+      79.983
+    ],
+    "population": "2,64,800",
+    "areaSqKm": 23.3
+  },
+  {
+    "id": "tambaram",
+    "name": "Tambaram",
+    "constituencyNo": 5,
+    "districtId": "chengalpattu",
+    "mlaName": "D. Sarathkumar",
+    "mlaParty": "TVK",
+    "center": [
+      12.634,
+      80.008
+    ],
+    "population": "2,78,500",
+    "areaSqKm": 27
+  },
+  {
+    "id": "pallavaram",
+    "name": "Pallavaram",
+    "constituencyNo": 6,
+    "districtId": "chengalpattu",
+    "mlaName": "J. Kamatchi",
+    "mlaParty": "TVK",
+    "center": [
+      12.659,
+      79.958
+    ],
+    "population": "2,92,200",
+    "areaSqKm": 30.7
+  },
+  {
+    "id": "chengalpattu",
+    "name": "Chengalpattu",
+    "constituencyNo": 7,
+    "districtId": "chengalpattu",
+    "mlaName": "S. Thiyagarajan",
+    "mlaParty": "TVK",
+    "center": [
+      12.684,
+      79.983
+    ],
+    "population": "3,05,900",
+    "areaSqKm": 34.4
+  },
+  {
+    "id": "thiruporur",
+    "name": "Thiruporur",
+    "constituencyNo": 8,
+    "districtId": "chengalpattu",
+    "mlaName": "B. Vijayaraj",
+    "mlaParty": "TVK",
+    "center": [
+      12.709,
+      80.008
+    ],
+    "population": "3,19,600",
+    "areaSqKm": 38.1
+  },
+  {
+    "id": "cheyyur",
+    "name": "Cheyyur",
+    "constituencyNo": 9,
+    "districtId": "chengalpattu",
+    "mlaName": "E. Rajasekar",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.734,
+      79.958
+    ],
+    "population": "3,33,300",
+    "areaSqKm": 9.8
+  },
+  {
+    "id": "maduranthakam",
+    "name": "Maduranthakam",
+    "constituencyNo": 10,
+    "districtId": "chengalpattu",
+    "mlaName": "Maragatham Kumaravel",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.759,
+      79.983
+    ],
+    "population": "3,47,000",
+    "areaSqKm": 13.5
+  },
+  {
+    "id": "dr-radhakrishnan-nagar",
+    "name": "Dr. Radhakrishnan Nagar",
+    "constituencyNo": 11,
+    "districtId": "chennai",
+    "mlaName": "N. Marie Wilson",
+    "mlaParty": "TVK",
+    "center": [
+      12.8827,
+      80.2457
+    ],
+    "population": "3,60,700",
+    "areaSqKm": 17.2
+  },
+  {
+    "id": "perambur",
+    "name": "Perambur",
+    "constituencyNo": 12,
+    "districtId": "chennai",
+    "mlaName": "C. Joseph Vijay",
+    "mlaParty": "TVK",
+    "center": [
+      12.9077,
+      80.2707
+    ],
+    "population": "2,14,400",
+    "areaSqKm": 20.9
+  },
+  {
+    "id": "kolathur",
+    "name": "Kolathur",
+    "constituencyNo": 13,
+    "districtId": "chennai",
+    "mlaName": "V. S. Babu",
+    "mlaParty": "TVK",
+    "center": [
+      12.9327,
+      80.2957
+    ],
+    "population": "2,28,100",
+    "areaSqKm": 24.6
+  },
+  {
+    "id": "villivakkam",
+    "name": "Villivakkam",
+    "constituencyNo": 14,
+    "districtId": "chennai",
+    "mlaName": "Aadhav Arjuna",
+    "mlaParty": "TVK",
+    "center": [
+      12.9577,
+      80.2457
+    ],
+    "population": "2,41,800",
+    "areaSqKm": 28.3
+  },
+  {
+    "id": "thiru-vi-ka-nagar",
+    "name": "Thiru-Vi-Ka-Nagar",
+    "constituencyNo": 15,
+    "districtId": "chennai",
+    "mlaName": "M. R. Pallavi",
+    "mlaParty": "TVK",
+    "center": [
+      12.9827,
+      80.2707
+    ],
+    "population": "2,55,500",
+    "areaSqKm": 32
+  },
+  {
+    "id": "egmore",
+    "name": "Egmore",
+    "constituencyNo": 16,
+    "districtId": "chennai",
+    "mlaName": "A. Rajmohan",
+    "mlaParty": "TVK",
+    "center": [
+      13.0077,
+      80.2957
+    ],
+    "population": "2,69,200",
+    "areaSqKm": 35.7
+  },
+  {
+    "id": "royapuram",
+    "name": "Royapuram",
+    "constituencyNo": 17,
+    "districtId": "chennai",
+    "mlaName": "K. V. Vijay Damu",
+    "mlaParty": "TVK",
+    "center": [
+      13.0327,
+      80.2457
+    ],
+    "population": "2,82,900",
+    "areaSqKm": 39.4
+  },
+  {
+    "id": "harbour",
+    "name": "Harbour",
+    "constituencyNo": 18,
+    "districtId": "chennai",
+    "mlaName": "P. K. Sekar Babu",
+    "mlaParty": "DMK",
+    "center": [
+      13.0577,
+      80.2707
+    ],
+    "population": "2,96,600",
+    "areaSqKm": 11.1
+  },
+  {
+    "id": "chepauk-thiruvallikeni",
+    "name": "Chepauk-Thiruvallikeni",
+    "constituencyNo": 19,
+    "districtId": "chennai",
+    "mlaName": "Udhayanidhi Stalin",
+    "mlaParty": "DMK",
+    "center": [
+      13.0827,
+      80.2957
+    ],
+    "population": "3,10,300",
+    "areaSqKm": 14.8
+  },
+  {
+    "id": "thousand-lights",
+    "name": "Thousand Lights",
+    "constituencyNo": 20,
+    "districtId": "chennai",
+    "mlaName": "J. C. D. Prabhakar",
+    "mlaParty": "TVK",
+    "center": [
+      13.1077,
+      80.2457
+    ],
+    "population": "3,24,000",
+    "areaSqKm": 18.5
+  },
+  {
+    "id": "anna-nagar",
+    "name": "Anna Nagar",
+    "constituencyNo": 21,
+    "districtId": "chennai",
+    "mlaName": "V. K. Ramkumar",
+    "mlaParty": "TVK",
+    "center": [
+      13.1327,
+      80.2707
+    ],
+    "population": "3,37,700",
+    "areaSqKm": 22.2
+  },
+  {
+    "id": "virugambakkam",
+    "name": "Virugambakkam",
+    "constituencyNo": 22,
+    "districtId": "chennai",
+    "mlaName": "R. Sabarinathan",
+    "mlaParty": "TVK",
+    "center": [
+      13.1577,
+      80.2957
+    ],
+    "population": "3,51,400",
+    "areaSqKm": 25.9
+  },
+  {
+    "id": "saidapet",
+    "name": "Saidapet",
+    "constituencyNo": 23,
+    "districtId": "chennai",
+    "mlaName": "Arul Prakasam M.",
+    "mlaParty": "TVK",
+    "center": [
+      13.1827,
+      80.2457
+    ],
+    "population": "3,65,100",
+    "areaSqKm": 29.6
+  },
+  {
+    "id": "t-nagar",
+    "name": "T. Nagar",
+    "constituencyNo": 24,
+    "districtId": "chennai",
+    "mlaName": "J. Karunanithi",
+    "mlaParty": "DMK",
+    "center": [
+      13.2077,
+      80.2707
+    ],
+    "population": "2,18,800",
+    "areaSqKm": 33.3
+  },
+  {
+    "id": "mylapore",
+    "name": "Mylapore",
+    "constituencyNo": 25,
+    "districtId": "chennai",
+    "mlaName": "P. Venkataramanan",
+    "mlaParty": "TVK",
+    "center": [
+      13.2327,
+      80.2957
+    ],
+    "population": "2,32,500",
+    "areaSqKm": 37
+  },
+  {
+    "id": "velachery",
+    "name": "Velachery",
+    "constituencyNo": 26,
+    "districtId": "chennai",
+    "mlaName": "R. Kumar",
+    "mlaParty": "TVK",
+    "center": [
+      13.2577,
+      80.2457
+    ],
+    "population": "2,46,200",
+    "areaSqKm": 8.7
+  },
+  {
+    "id": "mettupalayam",
+    "name": "Mettupalayam",
+    "constituencyNo": 27,
+    "districtId": "coimbatore",
+    "mlaName": "N. Sunil Anand",
+    "mlaParty": "TVK",
+    "center": [
+      10.8918,
+      76.9308
+    ],
+    "population": "2,59,900",
+    "areaSqKm": 12.4
+  },
+  {
+    "id": "sulur",
+    "name": "Sulur",
+    "constituencyNo": 28,
+    "districtId": "coimbatore",
+    "mlaName": "N. M. Sukumar",
+    "mlaParty": "TVK",
+    "center": [
+      10.9168,
+      76.9558
+    ],
+    "population": "2,73,600",
+    "areaSqKm": 16.1
+  },
+  {
+    "id": "kavundampalayam",
+    "name": "Kavundampalayam",
+    "constituencyNo": 29,
+    "districtId": "coimbatore",
+    "mlaName": "Kanimozhi Santhosh",
+    "mlaParty": "TVK",
+    "center": [
+      10.9418,
+      76.9808
+    ],
+    "population": "2,87,300",
+    "areaSqKm": 19.8
+  },
+  {
+    "id": "coimbatore-north",
+    "name": "Coimbatore North",
+    "constituencyNo": 30,
+    "districtId": "coimbatore",
+    "mlaName": "V. Sampathkumar",
+    "mlaParty": "TVK",
+    "center": [
+      10.9668,
+      76.9308
+    ],
+    "population": "3,01,000",
+    "areaSqKm": 23.5
+  },
+  {
+    "id": "thondamuthur",
+    "name": "Thondamuthur",
+    "constituencyNo": 31,
+    "districtId": "coimbatore",
+    "mlaName": "S. P. Velumani",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.9918,
+      76.9558
+    ],
+    "population": "3,14,700",
+    "areaSqKm": 27.2
+  },
+  {
+    "id": "coimbatore-south",
+    "name": "Coimbatore South",
+    "constituencyNo": 32,
+    "districtId": "coimbatore",
+    "mlaName": "V. Senthilbalaji",
+    "mlaParty": "DMK",
+    "center": [
+      11.0168,
+      76.9808
+    ],
+    "population": "3,28,400",
+    "areaSqKm": 30.9
+  },
+  {
+    "id": "singanallur",
+    "name": "Singanallur",
+    "constituencyNo": 33,
+    "districtId": "coimbatore",
+    "mlaName": "K. S. Sri Giri Prasath",
+    "mlaParty": "TVK",
+    "center": [
+      11.0418,
+      76.9308
+    ],
+    "population": "3,42,100",
+    "areaSqKm": 34.6
+  },
+  {
+    "id": "kinathukadavu",
+    "name": "Kinathukadavu",
+    "constituencyNo": 34,
+    "districtId": "coimbatore",
+    "mlaName": "K. Vignesh",
+    "mlaParty": "TVK",
+    "center": [
+      11.0668,
+      76.9558
+    ],
+    "population": "3,55,800",
+    "areaSqKm": 38.3
+  },
+  {
+    "id": "pollachi",
+    "name": "Pollachi",
+    "constituencyNo": 35,
+    "districtId": "coimbatore",
+    "mlaName": "K. Nithyanandhan",
+    "mlaParty": "DMK",
+    "center": [
+      11.0918,
+      76.9808
+    ],
+    "population": "3,69,500",
+    "areaSqKm": 10
+  },
+  {
+    "id": "valparai",
+    "name": "Valparai",
+    "constituencyNo": 36,
+    "districtId": "coimbatore",
+    "mlaName": "A. Sudhakar",
+    "mlaParty": "DMK",
+    "center": [
+      11.1168,
+      76.9308
+    ],
+    "population": "2,23,200",
+    "areaSqKm": 13.7
+  },
+  {
+    "id": "tittakudi",
+    "name": "Tittakudi",
+    "constituencyNo": 37,
+    "districtId": "cuddalore",
+    "mlaName": "C. V. Ganesan",
+    "mlaParty": "DMK",
+    "center": [
+      11.6355,
+      79.7464
+    ],
+    "population": "2,36,900",
+    "areaSqKm": 17.4
+  },
+  {
+    "id": "vriddhachalam",
+    "name": "Vriddhachalam",
+    "constituencyNo": 38,
+    "districtId": "cuddalore",
+    "mlaName": "Premalatha Vijayakanth",
+    "mlaParty": "DMDK",
+    "center": [
+      11.6605,
+      79.7714
+    ],
+    "population": "2,50,600",
+    "areaSqKm": 21.1
+  },
+  {
+    "id": "neyveli",
+    "name": "Neyveli",
+    "constituencyNo": 39,
+    "districtId": "cuddalore",
+    "mlaName": "R. Rajendran",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.6855,
+      79.7964
+    ],
+    "population": "2,64,300",
+    "areaSqKm": 24.8
+  },
+  {
+    "id": "panruti",
+    "name": "Panruti",
+    "constituencyNo": 40,
+    "districtId": "cuddalore",
+    "mlaName": "K. Mohan",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.7105,
+      79.7464
+    ],
+    "population": "2,78,000",
+    "areaSqKm": 28.5
+  },
+  {
+    "id": "cuddalore",
+    "name": "Cuddalore",
+    "constituencyNo": 41,
+    "districtId": "cuddalore",
+    "mlaName": "B. Rajkumar",
+    "mlaParty": "TVK",
+    "center": [
+      11.7355,
+      79.7714
+    ],
+    "population": "2,91,700",
+    "areaSqKm": 32.2
+  },
+  {
+    "id": "kurinjipadi",
+    "name": "Kurinjipadi",
+    "constituencyNo": 42,
+    "districtId": "cuddalore",
+    "mlaName": "M. R. K. Panneerselvam",
+    "mlaParty": "DMK",
+    "center": [
+      11.7605,
+      79.7964
+    ],
+    "population": "3,05,400",
+    "areaSqKm": 35.9
+  },
+  {
+    "id": "bhuvanagiri",
+    "name": "Bhuvanagiri",
+    "constituencyNo": 43,
+    "districtId": "cuddalore",
+    "mlaName": "A. Arunmozhithevan",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.7855,
+      79.7464
+    ],
+    "population": "3,19,100",
+    "areaSqKm": 39.6
+  },
+  {
+    "id": "chidambaram",
+    "name": "Chidambaram",
+    "constituencyNo": 44,
+    "districtId": "cuddalore",
+    "mlaName": "Thamimun Ansari",
+    "mlaParty": "DMK",
+    "center": [
+      11.8105,
+      79.7714
+    ],
+    "population": "3,32,800",
+    "areaSqKm": 11.3
+  },
+  {
+    "id": "kattumannarkoil",
+    "name": "Kattumannarkoil",
+    "constituencyNo": 45,
+    "districtId": "cuddalore",
+    "mlaName": "L. E. Jothimani",
+    "mlaParty": "VCK",
+    "center": [
+      11.8355,
+      79.7964
+    ],
+    "population": "3,46,500",
+    "areaSqKm": 15
+  },
+  {
+    "id": "palacode",
+    "name": "Palacode",
+    "constituencyNo": 46,
+    "districtId": "dharmapuri",
+    "mlaName": "K. P. Anbalagan",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.0586,
+      78.1332
+    ],
+    "population": "3,60,200",
+    "areaSqKm": 18.7
+  },
+  {
+    "id": "pennagaram",
+    "name": "Pennagaram",
+    "constituencyNo": 47,
+    "districtId": "dharmapuri",
+    "mlaName": "S. Gajendran",
+    "mlaParty": "TVK",
+    "center": [
+      12.0836,
+      78.1582
+    ],
+    "population": "2,13,900",
+    "areaSqKm": 22.4
+  },
+  {
+    "id": "dharmapuri",
+    "name": "Dharmapuri",
+    "constituencyNo": 48,
+    "districtId": "dharmapuri",
+    "mlaName": "Sowmiya Anbumani",
+    "mlaParty": "PMK",
+    "center": [
+      12.1086,
+      78.1832
+    ],
+    "population": "2,27,600",
+    "areaSqKm": 26.1
+  },
+  {
+    "id": "pappireddipatti",
+    "name": "Pappireddipatti",
+    "constituencyNo": 49,
+    "districtId": "dharmapuri",
+    "mlaName": "Maragatham Vetrivel",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.1336,
+      78.1332
+    ],
+    "population": "2,41,300",
+    "areaSqKm": 29.8
+  },
+  {
+    "id": "harur",
+    "name": "Harur",
+    "constituencyNo": 50,
+    "districtId": "dharmapuri",
+    "mlaName": "V. Sampathkumar",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.1586,
+      78.1582
+    ],
+    "population": "2,55,000",
+    "areaSqKm": 33.5
+  },
+  {
+    "id": "palani",
+    "name": "Palani",
+    "constituencyNo": 51,
+    "districtId": "dindigul",
+    "mlaName": "K. Ravimanoharan",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.2798,
+      77.9553
+    ],
+    "population": "2,68,700",
+    "areaSqKm": 37.2
+  },
+  {
+    "id": "oddanchatram",
+    "name": "Oddanchatram",
+    "constituencyNo": 52,
+    "districtId": "dindigul",
+    "mlaName": "R. Sakkarapani",
+    "mlaParty": "DMK",
+    "center": [
+      10.3048,
+      77.9803
+    ],
+    "population": "2,82,400",
+    "areaSqKm": 8.9
+  },
+  {
+    "id": "athoor",
+    "name": "Athoor",
+    "constituencyNo": 53,
+    "districtId": "dindigul",
+    "mlaName": "I. Periyasamy",
+    "mlaParty": "DMK",
+    "center": [
+      10.3298,
+      78.0053
+    ],
+    "population": "2,96,100",
+    "areaSqKm": 12.6
+  },
+  {
+    "id": "nilakottai",
+    "name": "Nilakottai",
+    "constituencyNo": 54,
+    "districtId": "dindigul",
+    "mlaName": "R. Ayyanar",
+    "mlaParty": "TVK",
+    "center": [
+      10.3548,
+      77.9553
+    ],
+    "population": "3,09,800",
+    "areaSqKm": 16.3
+  },
+  {
+    "id": "natham",
+    "name": "Natham",
+    "constituencyNo": 55,
+    "districtId": "dindigul",
+    "mlaName": "Natham R. Viswanathan",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.3798,
+      77.9803
+    ],
+    "population": "3,23,500",
+    "areaSqKm": 20
+  },
+  {
+    "id": "dindigul",
+    "name": "Dindigul",
+    "constituencyNo": 56,
+    "districtId": "dindigul",
+    "mlaName": "I. P. Senthil Kumar",
+    "mlaParty": "DMK",
+    "center": [
+      10.4048,
+      78.0053
+    ],
+    "population": "3,37,200",
+    "areaSqKm": 23.7
+  },
+  {
+    "id": "vedasandur",
+    "name": "Vedasandur",
+    "constituencyNo": 57,
+    "districtId": "dindigul",
+    "mlaName": "T. Saminathan",
+    "mlaParty": "DMK",
+    "center": [
+      10.4298,
+      77.9553
+    ],
+    "population": "3,50,900",
+    "areaSqKm": 27.4
+  },
+  {
+    "id": "erode-east",
+    "name": "Erode East",
+    "constituencyNo": 58,
+    "districtId": "erode",
+    "mlaName": "M. Vijay Balaji",
+    "mlaParty": "TVK",
+    "center": [
+      11.241,
+      77.6922
+    ],
+    "population": "3,64,600",
+    "areaSqKm": 31.1
+  },
+  {
+    "id": "erode-west",
+    "name": "Erode West",
+    "constituencyNo": 59,
+    "districtId": "erode",
+    "mlaName": "K. K. Ananth Moghan",
+    "mlaParty": "TVK",
+    "center": [
+      11.266,
+      77.7172
+    ],
+    "population": "2,18,300",
+    "areaSqKm": 34.8
+  },
+  {
+    "id": "modakkurichi",
+    "name": "Modakkurichi",
+    "constituencyNo": 60,
+    "districtId": "erode",
+    "mlaName": "D. Shanmugan",
+    "mlaParty": "TVK",
+    "center": [
+      11.291,
+      77.7422
+    ],
+    "population": "2,32,000",
+    "areaSqKm": 38.5
+  },
+  {
+    "id": "perundurai",
+    "name": "Perundurai",
+    "constituencyNo": 61,
+    "districtId": "erode",
+    "mlaName": "S. Jayakumar",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.316,
+      77.6922
+    ],
+    "population": "2,45,700",
+    "areaSqKm": 10.2
+  },
+  {
+    "id": "bhavani",
+    "name": "Bhavani",
+    "constituencyNo": 62,
+    "districtId": "erode",
+    "mlaName": "K. C. Karuppannan",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.341,
+      77.7172
+    ],
+    "population": "2,59,400",
+    "areaSqKm": 13.9
+  },
+  {
+    "id": "anthiyur",
+    "name": "Anthiyur",
+    "constituencyNo": 63,
+    "districtId": "erode",
+    "mlaName": "P. Haribaskar",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.366,
+      77.7422
+    ],
+    "population": "2,73,100",
+    "areaSqKm": 17.6
+  },
+  {
+    "id": "gobichettipalayam",
+    "name": "Gobichettipalayam",
+    "constituencyNo": 64,
+    "districtId": "erode",
+    "mlaName": "K. A. Sengottaiyan",
+    "mlaParty": "TVK",
+    "center": [
+      11.391,
+      77.6922
+    ],
+    "population": "2,86,800",
+    "areaSqKm": 21.3
+  },
+  {
+    "id": "bhavanisagar",
+    "name": "Bhavanisagar",
+    "constituencyNo": 65,
+    "districtId": "erode",
+    "mlaName": "V. P. Tamilselvi",
+    "mlaParty": "TVK",
+    "center": [
+      11.416,
+      77.7172
+    ],
+    "population": "3,00,500",
+    "areaSqKm": 25
+  },
+  {
+    "id": "ulundurpet",
+    "name": "Ulundurpet",
+    "constituencyNo": 66,
+    "districtId": "kallakurichi",
+    "mlaName": "G. R. Vasanthavel",
+    "mlaParty": "DMK",
+    "center": [
+      11.6884,
+      78.9389
+    ],
+    "population": "3,14,200",
+    "areaSqKm": 28.7
+  },
+  {
+    "id": "rishivandiyam",
+    "name": "Rishivandiyam",
+    "constituencyNo": 67,
+    "districtId": "kallakurichi",
+    "mlaName": "K. Karthikeyan",
+    "mlaParty": "DMK",
+    "center": [
+      11.7134,
+      78.9639
+    ],
+    "population": "3,27,900",
+    "areaSqKm": 32.4
+  },
+  {
+    "id": "sankarapuram",
+    "name": "Sankarapuram",
+    "constituencyNo": 68,
+    "districtId": "kallakurichi",
+    "mlaName": "R. Rakesh",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.7384,
+      78.9889
+    ],
+    "population": "3,41,600",
+    "areaSqKm": 36.1
+  },
+  {
+    "id": "kallakurichi",
+    "name": "Kallakurichi",
+    "constituencyNo": 69,
+    "districtId": "kallakurichi",
+    "mlaName": "C. Arul Vignesh",
+    "mlaParty": "TVK",
+    "center": [
+      11.7634,
+      78.9389
+    ],
+    "population": "3,55,300",
+    "areaSqKm": 39.8
+  },
+  {
+    "id": "sriperumbudur",
+    "name": "Sriperumbudur",
+    "constituencyNo": 70,
+    "districtId": "kanchipuram",
+    "mlaName": "Thennarasu K.",
+    "mlaParty": "TVK",
+    "center": [
+      12.7967,
+      79.6786
+    ],
+    "population": "3,69,000",
+    "areaSqKm": 11.5
+  },
+  {
+    "id": "uthiramerur",
+    "name": "Uthiramerur",
+    "constituencyNo": 71,
+    "districtId": "kanchipuram",
+    "mlaName": "J. Munirathinam",
+    "mlaParty": "TVK",
+    "center": [
+      12.8217,
+      79.7036
+    ],
+    "population": "2,22,700",
+    "areaSqKm": 15.2
+  },
+  {
+    "id": "kanchipuram",
+    "name": "Kanchipuram",
+    "constituencyNo": 72,
+    "districtId": "kanchipuram",
+    "mlaName": "R. V. Ranjithkumar",
+    "mlaParty": "TVK",
+    "center": [
+      12.8467,
+      79.7286
+    ],
+    "population": "2,36,400",
+    "areaSqKm": 18.9
+  },
+  {
+    "id": "kanniyakumari",
+    "name": "Kanniyakumari",
+    "constituencyNo": 73,
+    "districtId": "kanyakumari",
+    "mlaName": "N. Thalavai Sundaram",
+    "mlaParty": "AIADMK",
+    "center": [
+      8.0133,
+      77.5135
+    ],
+    "population": "2,50,100",
+    "areaSqKm": 22.6
+  },
+  {
+    "id": "nagercoil",
+    "name": "Nagercoil",
+    "constituencyNo": 74,
+    "districtId": "kanyakumari",
+    "mlaName": "S. Austin",
+    "mlaParty": "DMK",
+    "center": [
+      8.0383,
+      77.5385
+    ],
+    "population": "2,63,800",
+    "areaSqKm": 26.3
+  },
+  {
+    "id": "colachel",
+    "name": "Colachel",
+    "constituencyNo": 75,
+    "districtId": "kanyakumari",
+    "mlaName": "Tharahai Cuthbert",
+    "mlaParty": "INC",
+    "center": [
+      8.0633,
+      77.5635
+    ],
+    "population": "2,77,500",
+    "areaSqKm": 30
+  },
+  {
+    "id": "padmanabhapuram",
+    "name": "Padmanabhapuram",
+    "constituencyNo": 76,
+    "districtId": "kanyakumari",
+    "mlaName": "R. Chellaswamy",
+    "mlaParty": "CPI(M)",
+    "center": [
+      8.0883,
+      77.5135
+    ],
+    "population": "2,91,200",
+    "areaSqKm": 33.7
+  },
+  {
+    "id": "vilavancode",
+    "name": "Vilavancode",
+    "constituencyNo": 77,
+    "districtId": "kanyakumari",
+    "mlaName": "T. T. Praveen",
+    "mlaParty": "INC",
+    "center": [
+      8.1133,
+      77.5385
+    ],
+    "population": "3,04,900",
+    "areaSqKm": 37.4
+  },
+  {
+    "id": "killiyoor",
+    "name": "Killiyoor",
+    "constituencyNo": 78,
+    "districtId": "kanyakumari",
+    "mlaName": "S. Rajeshkumar",
+    "mlaParty": "INC",
+    "center": [
+      8.1383,
+      77.5635
+    ],
+    "population": "3,18,600",
+    "areaSqKm": 9.1
+  },
+  {
+    "id": "aravakurichi",
+    "name": "Aravakurichi",
+    "constituencyNo": 79,
+    "districtId": "karur",
+    "mlaName": "R. Elango",
+    "mlaParty": "DMK",
+    "center": [
+      10.9101,
+      78.0516
+    ],
+    "population": "3,32,300",
+    "areaSqKm": 12.8
+  },
+  {
+    "id": "karur",
+    "name": "Karur",
+    "constituencyNo": 80,
+    "districtId": "karur",
+    "mlaName": "M. R. Vijayabhaskar",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.9351,
+      78.0766
+    ],
+    "population": "3,46,000",
+    "areaSqKm": 16.5
+  },
+  {
+    "id": "krishnarayapuram",
+    "name": "Krishnarayapuram",
+    "constituencyNo": 81,
+    "districtId": "karur",
+    "mlaName": "Sathya M.",
+    "mlaParty": "TVK",
+    "center": [
+      10.9601,
+      78.1016
+    ],
+    "population": "3,59,700",
+    "areaSqKm": 20.2
+  },
+  {
+    "id": "kulithalai",
+    "name": "Kulithalai",
+    "constituencyNo": 82,
+    "districtId": "karur",
+    "mlaName": "Suriyanur A. Chandran",
+    "mlaParty": "DMK",
+    "center": [
+      10.9851,
+      78.0516
+    ],
+    "population": "2,13,400",
+    "areaSqKm": 23.9
+  },
+  {
+    "id": "uthangarai",
+    "name": "Uthangarai",
+    "constituencyNo": 83,
+    "districtId": "krishnagiri",
+    "mlaName": "N. Elaiyaraja",
+    "mlaParty": "TVK",
+    "center": [
+      12.4436,
+      78.1887
+    ],
+    "population": "2,27,100",
+    "areaSqKm": 27.6
+  },
+  {
+    "id": "bargur",
+    "name": "Bargur",
+    "constituencyNo": 84,
+    "districtId": "krishnagiri",
+    "mlaName": "E. C. Govindarasan",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.4686,
+      78.2137
+    ],
+    "population": "2,40,800",
+    "areaSqKm": 31.3
+  },
+  {
+    "id": "krishnagiri",
+    "name": "Krishnagiri",
+    "constituencyNo": 85,
+    "districtId": "krishnagiri",
+    "mlaName": "P. Mukundhan",
+    "mlaParty": "TVK",
+    "center": [
+      12.4936,
+      78.2387
+    ],
+    "population": "2,54,500",
+    "areaSqKm": 35
+  },
+  {
+    "id": "veppanahalli",
+    "name": "Veppanahalli",
+    "constituencyNo": 86,
+    "districtId": "krishnagiri",
+    "mlaName": "P. S. Srinivasan",
+    "mlaParty": "DMK",
+    "center": [
+      12.5186,
+      78.1887
+    ],
+    "population": "2,68,200",
+    "areaSqKm": 38.7
+  },
+  {
+    "id": "hosur",
+    "name": "Hosur",
+    "constituencyNo": 87,
+    "districtId": "krishnagiri",
+    "mlaName": "P. Balakrishna Reddy",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.5436,
+      78.2137
+    ],
+    "population": "2,81,900",
+    "areaSqKm": 10.4
+  },
+  {
+    "id": "thalli",
+    "name": "Thalli",
+    "constituencyNo": 88,
+    "districtId": "krishnagiri",
+    "mlaName": "T. Ramachandran",
+    "mlaParty": "CPI",
+    "center": [
+      12.5686,
+      78.2387
+    ],
+    "population": "2,95,600",
+    "areaSqKm": 14.1
+  },
+  {
+    "id": "melur",
+    "name": "Melur",
+    "constituencyNo": 89,
+    "districtId": "madurai",
+    "mlaName": "P. Viswanathan",
+    "mlaParty": "INC",
+    "center": [
+      9.8002,
+      78.0948
+    ],
+    "population": "3,09,300",
+    "areaSqKm": 17.8
+  },
+  {
+    "id": "madurai-east",
+    "name": "Madurai East",
+    "constituencyNo": 90,
+    "districtId": "madurai",
+    "mlaName": "S. Karthikeyan",
+    "mlaParty": "TVK",
+    "center": [
+      9.8252,
+      78.1198
+    ],
+    "population": "3,23,000",
+    "areaSqKm": 21.5
+  },
+  {
+    "id": "sholavandan",
+    "name": "Sholavandan",
+    "constituencyNo": 91,
+    "districtId": "madurai",
+    "mlaName": "M. V. Karuppiah",
+    "mlaParty": "TVK",
+    "center": [
+      9.8502,
+      78.1448
+    ],
+    "population": "3,36,700",
+    "areaSqKm": 25.2
+  },
+  {
+    "id": "madurai-north",
+    "name": "Madurai North",
+    "constituencyNo": 92,
+    "districtId": "madurai",
+    "mlaName": "A. Kallanai",
+    "mlaParty": "TVK",
+    "center": [
+      9.8752,
+      78.0948
+    ],
+    "population": "3,50,400",
+    "areaSqKm": 28.9
+  },
+  {
+    "id": "madurai-south",
+    "name": "Madurai South",
+    "constituencyNo": 93,
+    "districtId": "madurai",
+    "mlaName": "M. M. Gopison",
+    "mlaParty": "TVK",
+    "center": [
+      9.9002,
+      78.1198
+    ],
+    "population": "3,64,100",
+    "areaSqKm": 32.6
+  },
+  {
+    "id": "madurai-central",
+    "name": "Madurai Central",
+    "constituencyNo": 94,
+    "districtId": "madurai",
+    "mlaName": "Madhar Badhurudeen",
+    "mlaParty": "TVK",
+    "center": [
+      9.9252,
+      78.1448
+    ],
+    "population": "2,17,800",
+    "areaSqKm": 36.3
+  },
+  {
+    "id": "madurai-west",
+    "name": "Madurai West",
+    "constituencyNo": 95,
+    "districtId": "madurai",
+    "mlaName": "S. R. Thangapandi",
+    "mlaParty": "TVK",
+    "center": [
+      9.9502,
+      78.0948
+    ],
+    "population": "2,31,500",
+    "areaSqKm": 40
+  },
+  {
+    "id": "thiruparankundram",
+    "name": "Thiruparankundram",
+    "constituencyNo": 96,
+    "districtId": "madurai",
+    "mlaName": "C. T. R. Nirmal Kumar",
+    "mlaParty": "TVK",
+    "center": [
+      9.9752,
+      78.1198
+    ],
+    "population": "2,45,200",
+    "areaSqKm": 11.7
+  },
+  {
+    "id": "tirumangalam",
+    "name": "Tirumangalam",
+    "constituencyNo": 97,
+    "districtId": "madurai",
+    "mlaName": "Sedapatti M. Manimaran",
+    "mlaParty": "DMK",
+    "center": [
+      10.0002,
+      78.1448
+    ],
+    "population": "2,58,900",
+    "areaSqKm": 15.4
+  },
+  {
+    "id": "usilampatti",
+    "name": "Usilampatti",
+    "constituencyNo": 98,
+    "districtId": "madurai",
+    "mlaName": "M. Vijay",
+    "mlaParty": "TVK",
+    "center": [
+      10.0252,
+      78.0948
+    ],
+    "population": "2,72,600",
+    "areaSqKm": 19.1
+  },
+  {
+    "id": "sirkazhi",
+    "name": "Sirkazhi",
+    "constituencyNo": 99,
+    "districtId": "mayiladuthurai",
+    "mlaName": "R. Senthilselvan",
+    "mlaParty": "DMK",
+    "center": [
+      11.0642,
+      79.6272
+    ],
+    "population": "2,86,300",
+    "areaSqKm": 22.8
+  },
+  {
+    "id": "mayiladuthurai",
+    "name": "Mayiladuthurai",
+    "constituencyNo": 100,
+    "districtId": "mayiladuthurai",
+    "mlaName": "Jamal Mohamed Younoos",
+    "mlaParty": "INC",
+    "center": [
+      11.0892,
+      79.6522
+    ],
+    "population": "3,00,000",
+    "areaSqKm": 26.5
+  },
+  {
+    "id": "poompuhar",
+    "name": "Poompuhar",
+    "constituencyNo": 101,
+    "districtId": "mayiladuthurai",
+    "mlaName": "Nivedha M. Murugan",
+    "mlaParty": "DMK",
+    "center": [
+      11.1142,
+      79.6772
+    ],
+    "population": "3,13,700",
+    "areaSqKm": 30.2
+  },
+  {
+    "id": "nagapattinam",
+    "name": "Nagapattinam",
+    "constituencyNo": 102,
+    "districtId": "nagapattinam",
+    "mlaName": "M. H. Jawahirullah",
+    "mlaParty": "DMK",
+    "center": [
+      10.7297,
+      79.8194
+    ],
+    "population": "3,27,400",
+    "areaSqKm": 33.9
+  },
+  {
+    "id": "kilvelur",
+    "name": "Kilvelur",
+    "constituencyNo": 103,
+    "districtId": "nagapattinam",
+    "mlaName": "T. Latha",
+    "mlaParty": "CPI(M)",
+    "center": [
+      10.7547,
+      79.8444
+    ],
+    "population": "3,41,100",
+    "areaSqKm": 37.6
+  },
+  {
+    "id": "vedaranyam",
+    "name": "Vedaranyam",
+    "constituencyNo": 104,
+    "districtId": "nagapattinam",
+    "mlaName": "O. S. Manian",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.7797,
+      79.8694
+    ],
+    "population": "3,54,800",
+    "areaSqKm": 9.3
+  },
+  {
+    "id": "rasipuram",
+    "name": "Rasipuram",
+    "constituencyNo": 105,
+    "districtId": "namakkal",
+    "mlaName": "Logesh Tamilselvan",
+    "mlaParty": "TVK",
+    "center": [
+      11.1439,
+      78.1424
+    ],
+    "population": "3,68,500",
+    "areaSqKm": 13
+  },
+  {
+    "id": "senthamangalam",
+    "name": "Senthamangalam",
+    "constituencyNo": 106,
+    "districtId": "namakkal",
+    "mlaName": "P. Chandrasekar",
+    "mlaParty": "TVK",
+    "center": [
+      11.1689,
+      78.1674
+    ],
+    "population": "2,22,200",
+    "areaSqKm": 16.7
+  },
+  {
+    "id": "namakkal",
+    "name": "Namakkal",
+    "constituencyNo": 107,
+    "districtId": "namakkal",
+    "mlaName": "C. S. Dilip",
+    "mlaParty": "TVK",
+    "center": [
+      11.1939,
+      78.1924
+    ],
+    "population": "2,35,900",
+    "areaSqKm": 20.4
+  },
+  {
+    "id": "paramathi-velur",
+    "name": "Paramathi Velur",
+    "constituencyNo": 108,
+    "districtId": "namakkal",
+    "mlaName": "S. Sekar",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.2189,
+      78.1424
+    ],
+    "population": "2,49,600",
+    "areaSqKm": 24.1
+  },
+  {
+    "id": "tiruchengodu",
+    "name": "Tiruchengodu",
+    "constituencyNo": 109,
+    "districtId": "namakkal",
+    "mlaName": "K. G. Arunraj",
+    "mlaParty": "TVK",
+    "center": [
+      11.2439,
+      78.1674
+    ],
+    "population": "2,63,300",
+    "areaSqKm": 27.8
+  },
+  {
+    "id": "kumarapalayam",
+    "name": "Kumarapalayam",
+    "constituencyNo": 110,
+    "districtId": "namakkal",
+    "mlaName": "C. Vijayalakshmi",
+    "mlaParty": "TVK",
+    "center": [
+      11.2689,
+      78.1924
+    ],
+    "population": "2,77,000",
+    "areaSqKm": 31.5
+  },
+  {
+    "id": "udhagamandalam",
+    "name": "Udhagamandalam",
+    "constituencyNo": 111,
+    "districtId": "nilgiris",
+    "mlaName": "M. Bhojarajan",
+    "mlaParty": "BJP",
+    "center": [
+      11.3727,
+      76.67
+    ],
+    "population": "2,90,700",
+    "areaSqKm": 35.2
+  },
+  {
+    "id": "gudalur",
+    "name": "Gudalur",
+    "constituencyNo": 112,
+    "districtId": "nilgiris",
+    "mlaName": "M. Thiravidamani",
+    "mlaParty": "DMK",
+    "center": [
+      11.3977,
+      76.695
+    ],
+    "population": "3,04,400",
+    "areaSqKm": 38.9
+  },
+  {
+    "id": "coonoor",
+    "name": "Coonoor",
+    "constituencyNo": 113,
+    "districtId": "nilgiris",
+    "mlaName": "M. Raju",
+    "mlaParty": "DMK",
+    "center": [
+      11.4227,
+      76.72
+    ],
+    "population": "3,18,100",
+    "areaSqKm": 10.6
+  },
+  {
+    "id": "perambalur",
+    "name": "Perambalur",
+    "constituencyNo": 114,
+    "districtId": "perambalur",
+    "mlaName": "K. Sivakumar",
+    "mlaParty": "TVK",
+    "center": [
+      11.2092,
+      78.8571
+    ],
+    "population": "3,31,800",
+    "areaSqKm": 14.3
+  },
+  {
+    "id": "kunnam",
+    "name": "Kunnam",
+    "constituencyNo": 115,
+    "districtId": "perambalur",
+    "mlaName": "S. S. Sivasankar",
+    "mlaParty": "DMK",
+    "center": [
+      11.2342,
+      78.8821
+    ],
+    "population": "3,45,500",
+    "areaSqKm": 18
+  },
+  {
+    "id": "gandharvakottai",
+    "name": "Gandharvakottai",
+    "constituencyNo": 116,
+    "districtId": "pudukkottai",
+    "mlaName": "N. Subramanian",
+    "mlaParty": "TVK",
+    "center": [
+      10.3047,
+      78.7958
+    ],
+    "population": "3,59,200",
+    "areaSqKm": 21.7
+  },
+  {
+    "id": "viralimalai",
+    "name": "Viralimalai",
+    "constituencyNo": 117,
+    "districtId": "pudukkottai",
+    "mlaName": "Vijayabaskar C.",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.3297,
+      78.8208
+    ],
+    "population": "2,12,900",
+    "areaSqKm": 25.4
+  },
+  {
+    "id": "pudukkottai",
+    "name": "Pudukkottai",
+    "constituencyNo": 118,
+    "districtId": "pudukkottai",
+    "mlaName": "V. Muthuraja",
+    "mlaParty": "DMK",
+    "center": [
+      10.3547,
+      78.8458
+    ],
+    "population": "2,26,600",
+    "areaSqKm": 29.1
+  },
+  {
+    "id": "thirumayam",
+    "name": "Thirumayam",
+    "constituencyNo": 119,
+    "districtId": "pudukkottai",
+    "mlaName": "S. Regupathy",
+    "mlaParty": "DMK",
+    "center": [
+      10.3797,
+      78.7958
+    ],
+    "population": "2,40,300",
+    "areaSqKm": 32.8
+  },
+  {
+    "id": "alangudi",
+    "name": "Alangudi",
+    "constituencyNo": 120,
+    "districtId": "pudukkottai",
+    "mlaName": "Siva V. Meyyanathan",
+    "mlaParty": "DMK",
+    "center": [
+      10.4047,
+      78.8208
+    ],
+    "population": "2,54,000",
+    "areaSqKm": 36.5
+  },
+  {
+    "id": "aranthangi",
+    "name": "Aranthangi",
+    "constituencyNo": 121,
+    "districtId": "pudukkottai",
+    "mlaName": "J. Mohamed Farvas",
+    "mlaParty": "TVK",
+    "center": [
+      10.4297,
+      78.8458
+    ],
+    "population": "2,67,700",
+    "areaSqKm": 40.2
+  },
+  {
+    "id": "paramakudi",
+    "name": "Paramakudi",
+    "constituencyNo": 122,
+    "districtId": "ramanathapuram",
+    "mlaName": "K. K. Kathiravan",
+    "mlaParty": "DMK",
+    "center": [
+      9.3139,
+      78.8145
+    ],
+    "population": "2,81,400",
+    "areaSqKm": 11.9
+  },
+  {
+    "id": "tiruvadanai",
+    "name": "Tiruvadanai",
+    "constituencyNo": 123,
+    "districtId": "ramanathapuram",
+    "mlaName": "Rajeev V. K.",
+    "mlaParty": "TVK",
+    "center": [
+      9.3389,
+      78.8395
+    ],
+    "population": "2,95,100",
+    "areaSqKm": 15.6
+  },
+  {
+    "id": "ramanathapuram",
+    "name": "Ramanathapuram",
+    "constituencyNo": 124,
+    "districtId": "ramanathapuram",
+    "mlaName": "Katharbatcha Muthuramalingam",
+    "mlaParty": "DMK",
+    "center": [
+      9.3639,
+      78.8645
+    ],
+    "population": "3,08,800",
+    "areaSqKm": 19.3
+  },
+  {
+    "id": "mudukulathur",
+    "name": "Mudukulathur",
+    "constituencyNo": 125,
+    "districtId": "ramanathapuram",
+    "mlaName": "R. S. Raja Kannappan",
+    "mlaParty": "DMK",
+    "center": [
+      9.3889,
+      78.8145
+    ],
+    "population": "3,22,500",
+    "areaSqKm": 23
+  },
+  {
+    "id": "arakkonam",
+    "name": "Arakkonam",
+    "constituencyNo": 126,
+    "districtId": "ranipet",
+    "mlaName": "V. Gandhiraj",
+    "mlaParty": "TVK",
+    "center": [
+      12.8772,
+      79.3078
+    ],
+    "population": "3,36,200",
+    "areaSqKm": 26.7
+  },
+  {
+    "id": "sholingur",
+    "name": "Sholingur",
+    "constituencyNo": 127,
+    "districtId": "ranipet",
+    "mlaName": "G. Kapil",
+    "mlaParty": "TVK",
+    "center": [
+      12.9022,
+      79.3328
+    ],
+    "population": "3,49,900",
+    "areaSqKm": 30.4
+  },
+  {
+    "id": "ranipet",
+    "name": "Ranipet",
+    "constituencyNo": 128,
+    "districtId": "ranipet",
+    "mlaName": "I. Tahira",
+    "mlaParty": "TVK",
+    "center": [
+      12.9272,
+      79.3578
+    ],
+    "population": "3,63,600",
+    "areaSqKm": 34.1
+  },
+  {
+    "id": "arcot",
+    "name": "Arcot",
+    "constituencyNo": 129,
+    "districtId": "ranipet",
+    "mlaName": "S. M. Sukumar",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.9522,
+      79.3078
+    ],
+    "population": "2,17,300",
+    "areaSqKm": 37.8
+  },
+  {
+    "id": "gangavalli",
+    "name": "Gangavalli",
+    "constituencyNo": 130,
+    "districtId": "salem",
+    "mlaName": "A. Nallathambi",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.5268,
+      78.121
+    ],
+    "population": "2,31,000",
+    "areaSqKm": 9.5
+  },
+  {
+    "id": "attur",
+    "name": "Attur",
+    "constituencyNo": 131,
+    "districtId": "salem",
+    "mlaName": "A. P. Jayasankaran",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.5518,
+      78.146
+    ],
+    "population": "2,44,700",
+    "areaSqKm": 13.2
+  },
+  {
+    "id": "yercaud",
+    "name": "Yercaud",
+    "constituencyNo": 132,
+    "districtId": "salem",
+    "mlaName": "P. Usharani",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.5768,
+      78.171
+    ],
+    "population": "2,58,400",
+    "areaSqKm": 16.9
+  },
+  {
+    "id": "omalur",
+    "name": "Omalur",
+    "constituencyNo": 133,
+    "districtId": "salem",
+    "mlaName": "R. Mani",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.6018,
+      78.121
+    ],
+    "population": "2,72,100",
+    "areaSqKm": 20.6
+  },
+  {
+    "id": "mettur",
+    "name": "Mettur",
+    "constituencyNo": 134,
+    "districtId": "salem",
+    "mlaName": "G. Venkatachalam",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.6268,
+      78.146
+    ],
+    "population": "2,85,800",
+    "areaSqKm": 24.3
+  },
+  {
+    "id": "edappadi",
+    "name": "Edappadi",
+    "constituencyNo": 135,
+    "districtId": "salem",
+    "mlaName": "Edappadi K. Palaniswami",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.6518,
+      78.171
+    ],
+    "population": "2,99,500",
+    "areaSqKm": 28
+  },
+  {
+    "id": "sankari",
+    "name": "Sankari",
+    "constituencyNo": 136,
+    "districtId": "salem",
+    "mlaName": "S. Vetrivel",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.6768,
+      78.121
+    ],
+    "population": "3,13,200",
+    "areaSqKm": 31.7
+  },
+  {
+    "id": "salem-west",
+    "name": "Salem West",
+    "constituencyNo": 137,
+    "districtId": "salem",
+    "mlaName": "S. Lakshman",
+    "mlaParty": "TVK",
+    "center": [
+      11.7018,
+      78.146
+    ],
+    "population": "3,26,900",
+    "areaSqKm": 35.4
+  },
+  {
+    "id": "salem-north",
+    "name": "Salem North",
+    "constituencyNo": 138,
+    "districtId": "salem",
+    "mlaName": "K. Sivakumar",
+    "mlaParty": "TVK",
+    "center": [
+      11.7268,
+      78.171
+    ],
+    "population": "3,40,600",
+    "areaSqKm": 39.1
+  },
+  {
+    "id": "salem-south",
+    "name": "Salem South",
+    "constituencyNo": 139,
+    "districtId": "salem",
+    "mlaName": "Vijay Tamilan Parthiban",
+    "mlaParty": "TVK",
+    "center": [
+      11.7518,
+      78.121
+    ],
+    "population": "3,54,300",
+    "areaSqKm": 10.8
+  },
+  {
+    "id": "veerapandi",
+    "name": "Veerapandi",
+    "constituencyNo": 140,
+    "districtId": "salem",
+    "mlaName": "M. S. Palanivel",
+    "mlaParty": "TVK",
+    "center": [
+      11.7768,
+      78.146
+    ],
+    "population": "3,68,000",
+    "areaSqKm": 14.5
+  },
+  {
+    "id": "karaikudi",
+    "name": "Karaikudi",
+    "constituencyNo": 141,
+    "districtId": "sivaganga",
+    "mlaName": "Dr. T. K. Prabhu",
+    "mlaParty": "TVK",
+    "center": [
+      9.7933,
+      78.4559
+    ],
+    "population": "2,21,700",
+    "areaSqKm": 18.2
+  },
+  {
+    "id": "tiruppattur",
+    "name": "Tiruppattur",
+    "constituencyNo": 142,
+    "districtId": "sivaganga",
+    "mlaName": "N. Thirupathi",
+    "mlaParty": "TVK",
+    "center": [
+      9.8183,
+      78.4809
+    ],
+    "population": "2,35,400",
+    "areaSqKm": 21.9
+  },
+  {
+    "id": "sivaganga",
+    "name": "Sivaganga",
+    "constituencyNo": 143,
+    "districtId": "sivaganga",
+    "mlaName": "Kulanthai Rani A.",
+    "mlaParty": "TVK",
+    "center": [
+      9.8433,
+      78.5059
+    ],
+    "population": "2,49,100",
+    "areaSqKm": 25.6
+  },
+  {
+    "id": "manamadurai",
+    "name": "Manamadurai",
+    "constituencyNo": 144,
+    "districtId": "sivaganga",
+    "mlaName": "Elangovan D.",
+    "mlaParty": "TVK",
+    "center": [
+      9.8683,
+      78.4559
+    ],
+    "population": "2,62,800",
+    "areaSqKm": 29.3
+  },
+  {
+    "id": "sankarankovil",
+    "name": "Sankarankovil",
+    "constituencyNo": 145,
+    "districtId": "tenkasi",
+    "mlaName": "Dhilipan Jaishankar",
+    "mlaParty": "AIADMK",
+    "center": [
+      8.8966,
+      77.2901
+    ],
+    "population": "2,76,500",
+    "areaSqKm": 33
+  },
+  {
+    "id": "vasudevanallur",
+    "name": "Vasudevanallur",
+    "constituencyNo": 146,
+    "districtId": "tenkasi",
+    "mlaName": "E. Raja",
+    "mlaParty": "DMK",
+    "center": [
+      8.9216,
+      77.3151
+    ],
+    "population": "2,90,200",
+    "areaSqKm": 36.7
+  },
+  {
+    "id": "kadayanallur",
+    "name": "Kadayanallur",
+    "constituencyNo": 147,
+    "districtId": "tenkasi",
+    "mlaName": "T. M. Rajendran",
+    "mlaParty": "DMK",
+    "center": [
+      8.9466,
+      77.3401
+    ],
+    "population": "3,03,900",
+    "areaSqKm": 40.4
+  },
+  {
+    "id": "tenkasi",
+    "name": "Tenkasi",
+    "constituencyNo": 148,
+    "districtId": "tenkasi",
+    "mlaName": "Kalai Kathiravan",
+    "mlaParty": "DMK",
+    "center": [
+      8.9716,
+      77.2901
+    ],
+    "population": "3,17,600",
+    "areaSqKm": 12.1
+  },
+  {
+    "id": "alangulam",
+    "name": "Alangulam",
+    "constituencyNo": 149,
+    "districtId": "tenkasi",
+    "mlaName": "Paul Manoj Pandian",
+    "mlaParty": "DMK",
+    "center": [
+      8.9966,
+      77.3151
+    ],
+    "population": "3,31,300",
+    "areaSqKm": 15.8
+  },
+  {
+    "id": "thiruvidaimarudur",
+    "name": "Thiruvidaimarudur",
+    "constituencyNo": 150,
+    "districtId": "thanjavur",
+    "mlaName": "Govi Chezhian",
+    "mlaParty": "DMK",
+    "center": [
+      10.687,
+      79.1128
+    ],
+    "population": "3,45,000",
+    "areaSqKm": 19.5
+  },
+  {
+    "id": "kumbakonam",
+    "name": "Kumbakonam",
+    "constituencyNo": 151,
+    "districtId": "thanjavur",
+    "mlaName": "R. Vinoth",
+    "mlaParty": "TVK",
+    "center": [
+      10.712,
+      79.1378
+    ],
+    "population": "3,58,700",
+    "areaSqKm": 23.2
+  },
+  {
+    "id": "papanasam",
+    "name": "Papanasam",
+    "constituencyNo": 152,
+    "districtId": "thanjavur",
+    "mlaName": "A. M. Shahjahan",
+    "mlaParty": "IUML",
+    "center": [
+      10.737,
+      79.1628
+    ],
+    "population": "2,12,400",
+    "areaSqKm": 26.9
+  },
+  {
+    "id": "thiruvaiyaru",
+    "name": "Thiruvaiyaru",
+    "constituencyNo": 153,
+    "districtId": "thanjavur",
+    "mlaName": "Durai Chandrasekaran",
+    "mlaParty": "DMK",
+    "center": [
+      10.762,
+      79.1128
+    ],
+    "population": "2,26,100",
+    "areaSqKm": 30.6
+  },
+  {
+    "id": "thanjavur",
+    "name": "Thanjavur",
+    "constituencyNo": 154,
+    "districtId": "thanjavur",
+    "mlaName": "R. Vijaysaravanan",
+    "mlaParty": "TVK",
+    "center": [
+      10.787,
+      79.1378
+    ],
+    "population": "2,39,800",
+    "areaSqKm": 34.3
+  },
+  {
+    "id": "orathanadu",
+    "name": "Orathanadu",
+    "constituencyNo": 155,
+    "districtId": "thanjavur",
+    "mlaName": "R. Vaithilingam",
+    "mlaParty": "DMK",
+    "center": [
+      10.812,
+      79.1628
+    ],
+    "population": "2,53,500",
+    "areaSqKm": 38
+  },
+  {
+    "id": "pattukkottai",
+    "name": "Pattukkottai",
+    "constituencyNo": 156,
+    "districtId": "thanjavur",
+    "mlaName": "K. Annadurai",
+    "mlaParty": "DMK",
+    "center": [
+      10.837,
+      79.1128
+    ],
+    "population": "2,67,200",
+    "areaSqKm": 9.7
+  },
+  {
+    "id": "peravurani",
+    "name": "Peravurani",
+    "constituencyNo": 157,
+    "districtId": "thanjavur",
+    "mlaName": "N. Ashokkumar",
+    "mlaParty": "DMK",
+    "center": [
+      10.862,
+      79.1378
+    ],
+    "population": "2,80,900",
+    "areaSqKm": 13.4
+  },
+  {
+    "id": "andipatti",
+    "name": "Andipatti",
+    "constituencyNo": 158,
+    "districtId": "theni",
+    "mlaName": "A. Maharajan",
+    "mlaParty": "DMK",
+    "center": [
+      9.9604,
+      77.4518
+    ],
+    "population": "2,94,600",
+    "areaSqKm": 17.1
+  },
+  {
+    "id": "periyakulam",
+    "name": "Periyakulam",
+    "constituencyNo": 159,
+    "districtId": "theni",
+    "mlaName": "G. Sabari Iyngaran",
+    "mlaParty": "TVK",
+    "center": [
+      9.9854,
+      77.4768
+    ],
+    "population": "3,08,300",
+    "areaSqKm": 20.8
+  },
+  {
+    "id": "bodinayakanur",
+    "name": "Bodinayakanur",
+    "constituencyNo": 160,
+    "districtId": "theni",
+    "mlaName": "O. Panneerselvam",
+    "mlaParty": "DMK",
+    "center": [
+      10.0104,
+      77.5018
+    ],
+    "population": "3,22,000",
+    "areaSqKm": 24.5
+  },
+  {
+    "id": "cumbum",
+    "name": "Cumbum",
+    "constituencyNo": 161,
+    "districtId": "theni",
+    "mlaName": "P. L. A. Jeganathmishra",
+    "mlaParty": "TVK",
+    "center": [
+      10.0354,
+      77.4518
+    ],
+    "population": "3,35,700",
+    "areaSqKm": 28.2
+  },
+  {
+    "id": "vilathikulam",
+    "name": "Vilathikulam",
+    "constituencyNo": 162,
+    "districtId": "thoothukudi",
+    "mlaName": "G. V. Markandayan",
+    "mlaParty": "DMK",
+    "center": [
+      8.6892,
+      78.1098
+    ],
+    "population": "3,49,400",
+    "areaSqKm": 31.9
+  },
+  {
+    "id": "thoothukudi",
+    "name": "Thoothukudi",
+    "constituencyNo": 163,
+    "districtId": "thoothukudi",
+    "mlaName": "Srinath",
+    "mlaParty": "TVK",
+    "center": [
+      8.7142,
+      78.1348
+    ],
+    "population": "3,63,100",
+    "areaSqKm": 35.6
+  },
+  {
+    "id": "tiruchendur",
+    "name": "Tiruchendur",
+    "constituencyNo": 164,
+    "districtId": "thoothukudi",
+    "mlaName": "Anitha R. Radhakrishnan",
+    "mlaParty": "DMK",
+    "center": [
+      8.7392,
+      78.1598
+    ],
+    "population": "2,16,800",
+    "areaSqKm": 39.3
+  },
+  {
+    "id": "srivaikuntam",
+    "name": "Srivaikuntam",
+    "constituencyNo": 165,
+    "districtId": "thoothukudi",
+    "mlaName": "G. Saravanan",
+    "mlaParty": "TVK",
+    "center": [
+      8.7642,
+      78.1098
+    ],
+    "population": "2,30,500",
+    "areaSqKm": 11
+  },
+  {
+    "id": "ottapidaram",
+    "name": "Ottapidaram",
+    "constituencyNo": 166,
+    "districtId": "thoothukudi",
+    "mlaName": "P. Mathanraja",
+    "mlaParty": "TVK",
+    "center": [
+      8.7892,
+      78.1348
+    ],
+    "population": "2,44,200",
+    "areaSqKm": 14.7
+  },
+  {
+    "id": "kovilpatti",
+    "name": "Kovilpatti",
+    "constituencyNo": 167,
+    "districtId": "thoothukudi",
+    "mlaName": "K. Karunanithi",
+    "mlaParty": "DMK",
+    "center": [
+      8.8142,
+      78.1598
+    ],
+    "population": "2,57,900",
+    "areaSqKm": 18.4
+  },
+  {
+    "id": "manapparai",
+    "name": "Manapparai",
+    "constituencyNo": 168,
+    "districtId": "tiruchirappalli",
+    "mlaName": "R. Kathiravan",
+    "mlaParty": "TVK",
+    "center": [
+      10.678,
+      78.6797
+    ],
+    "population": "2,71,600",
+    "areaSqKm": 22.1
+  },
+  {
+    "id": "srirangam",
+    "name": "Srirangam",
+    "constituencyNo": 169,
+    "districtId": "tiruchirappalli",
+    "mlaName": "S. Ramesh",
+    "mlaParty": "TVK",
+    "center": [
+      10.703,
+      78.7047
+    ],
+    "population": "2,85,300",
+    "areaSqKm": 25.8
+  },
+  {
+    "id": "tiruchirappalli-west",
+    "name": "Tiruchirappalli West",
+    "constituencyNo": 170,
+    "districtId": "tiruchirappalli",
+    "mlaName": "K. N. Nehru",
+    "mlaParty": "DMK",
+    "center": [
+      10.728,
+      78.7297
+    ],
+    "population": "2,99,000",
+    "areaSqKm": 29.5
+  },
+  {
+    "id": "tiruchirappalli-east",
+    "name": "Tiruchirappalli East",
+    "constituencyNo": 171,
+    "districtId": "tiruchirappalli",
+    "mlaName": "C. Joseph Vijay",
+    "mlaParty": "TVK",
+    "center": [
+      10.753,
+      78.6797
+    ],
+    "population": "3,12,700",
+    "areaSqKm": 33.2
+  },
+  {
+    "id": "tiruverumbur",
+    "name": "Tiruverumbur",
+    "constituencyNo": 172,
+    "districtId": "tiruchirappalli",
+    "mlaName": "Navalpattu S. Viji",
+    "mlaParty": "TVK",
+    "center": [
+      10.778,
+      78.7047
+    ],
+    "population": "3,26,400",
+    "areaSqKm": 36.9
+  },
+  {
+    "id": "lalgudi",
+    "name": "Lalgudi",
+    "constituencyNo": 173,
+    "districtId": "tiruchirappalli",
+    "mlaName": "Leema Rose Martin",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.803,
+      78.7297
+    ],
+    "population": "3,40,100",
+    "areaSqKm": 8.6
+  },
+  {
+    "id": "manachanallur",
+    "name": "Manachanallur",
+    "constituencyNo": 174,
+    "districtId": "tiruchirappalli",
+    "mlaName": "S. Kathiravan",
+    "mlaParty": "DMK",
+    "center": [
+      10.828,
+      78.6797
+    ],
+    "population": "3,53,800",
+    "areaSqKm": 12.3
+  },
+  {
+    "id": "musiri",
+    "name": "Musiri",
+    "constituencyNo": 175,
+    "districtId": "tiruchirappalli",
+    "mlaName": "M. Vignesh",
+    "mlaParty": "TVK",
+    "center": [
+      10.853,
+      78.7047
+    ],
+    "population": "3,67,500",
+    "areaSqKm": 16
+  },
+  {
+    "id": "thuraiyur",
+    "name": "Thuraiyur",
+    "constituencyNo": 176,
+    "districtId": "tiruchirappalli",
+    "mlaName": "M. Ravisankar",
+    "mlaParty": "TVK",
+    "center": [
+      10.878,
+      78.7297
+    ],
+    "population": "2,21,200",
+    "areaSqKm": 19.7
+  },
+  {
+    "id": "tirunelveli",
+    "name": "Tirunelveli",
+    "constituencyNo": 177,
+    "districtId": "tirunelveli",
+    "mlaName": "R. S. Murughan",
+    "mlaParty": "TVK",
+    "center": [
+      8.6514,
+      77.7317
+    ],
+    "population": "2,34,900",
+    "areaSqKm": 23.4
+  },
+  {
+    "id": "ambasamudram",
+    "name": "Ambasamudram",
+    "constituencyNo": 178,
+    "districtId": "tirunelveli",
+    "mlaName": "E. Subaya",
+    "mlaParty": "AIADMK",
+    "center": [
+      8.6764,
+      77.7567
+    ],
+    "population": "2,48,600",
+    "areaSqKm": 27.1
+  },
+  {
+    "id": "nanguneri",
+    "name": "Nanguneri",
+    "constituencyNo": 179,
+    "districtId": "tirunelveli",
+    "mlaName": "Reddiarpatti V. Narayanan",
+    "mlaParty": "TVK",
+    "center": [
+      8.7014,
+      77.7817
+    ],
+    "population": "2,62,300",
+    "areaSqKm": 30.8
+  },
+  {
+    "id": "radhapuram",
+    "name": "Radhapuram",
+    "constituencyNo": 180,
+    "districtId": "tirunelveli",
+    "mlaName": "Sathish Christopher",
+    "mlaParty": "TVK",
+    "center": [
+      8.7264,
+      77.7317
+    ],
+    "population": "2,76,000",
+    "areaSqKm": 34.5
+  },
+  {
+    "id": "palayamkottai",
+    "name": "Palayamkottai",
+    "constituencyNo": 181,
+    "districtId": "tirunelveli",
+    "mlaName": "M. Abdul Wahab",
+    "mlaParty": "DMK",
+    "center": [
+      8.7514,
+      77.7567
+    ],
+    "population": "2,89,700",
+    "areaSqKm": 38.2
+  },
+  {
+    "id": "vaniyambadi",
+    "name": "Vaniyambadi",
+    "constituencyNo": 182,
+    "districtId": "tirupathur",
+    "mlaName": "Syed Farooq Basha",
+    "mlaParty": "IUML",
+    "center": [
+      12.4434,
+      78.5434
+    ],
+    "population": "3,03,400",
+    "areaSqKm": 9.9
+  },
+  {
+    "id": "ambur",
+    "name": "Ambur",
+    "constituencyNo": 183,
+    "districtId": "tirupathur",
+    "mlaName": "A. C. Vilvanathan",
+    "mlaParty": "DMK",
+    "center": [
+      12.4684,
+      78.5684
+    ],
+    "population": "3,17,100",
+    "areaSqKm": 13.6
+  },
+  {
+    "id": "jolarpet",
+    "name": "Jolarpet",
+    "constituencyNo": 184,
+    "districtId": "tirupathur",
+    "mlaName": "K. C. Veeramani",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.4934,
+      78.5934
+    ],
+    "population": "3,30,800",
+    "areaSqKm": 17.3
+  },
+  {
+    "id": "tirupattur",
+    "name": "Tirupattur",
+    "constituencyNo": 185,
+    "districtId": "tirupathur",
+    "mlaName": "Srinivasa Sethupathi",
+    "mlaParty": "TVK",
+    "center": [
+      12.5184,
+      78.5434
+    ],
+    "population": "3,44,500",
+    "areaSqKm": 21
+  },
+  {
+    "id": "dharapuram",
+    "name": "Dharapuram",
+    "constituencyNo": 186,
+    "districtId": "tiruppur",
+    "mlaName": "P. Sathyabama",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.0085,
+      77.3161
+    ],
+    "population": "3,58,200",
+    "areaSqKm": 24.7
+  },
+  {
+    "id": "kangayam",
+    "name": "Kangayam",
+    "constituencyNo": 187,
+    "districtId": "tiruppur",
+    "mlaName": "N. S. N. Nataraj",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.0335,
+      77.3411
+    ],
+    "population": "2,11,900",
+    "areaSqKm": 28.4
+  },
+  {
+    "id": "avanashi",
+    "name": "Avanashi",
+    "constituencyNo": 188,
+    "districtId": "tiruppur",
+    "mlaName": "Kamali S.",
+    "mlaParty": "TVK",
+    "center": [
+      11.0585,
+      77.3661
+    ],
+    "population": "2,25,600",
+    "areaSqKm": 32.1
+  },
+  {
+    "id": "tiruppur-north",
+    "name": "Tiruppur North",
+    "constituencyNo": 189,
+    "districtId": "tiruppur",
+    "mlaName": "V. Sathyabama",
+    "mlaParty": "TVK",
+    "center": [
+      11.0835,
+      77.3161
+    ],
+    "population": "2,39,300",
+    "areaSqKm": 35.8
+  },
+  {
+    "id": "tiruppur-south",
+    "name": "Tiruppur South",
+    "constituencyNo": 190,
+    "districtId": "tiruppur",
+    "mlaName": "S. Balamurugan",
+    "mlaParty": "TVK",
+    "center": [
+      11.1085,
+      77.3411
+    ],
+    "population": "2,53,000",
+    "areaSqKm": 39.5
+  },
+  {
+    "id": "palladam",
+    "name": "Palladam",
+    "constituencyNo": 191,
+    "districtId": "tiruppur",
+    "mlaName": "K. Ramkumar",
+    "mlaParty": "TVK",
+    "center": [
+      11.1335,
+      77.3661
+    ],
+    "population": "2,66,700",
+    "areaSqKm": 11.2
+  },
+  {
+    "id": "udumalaipettai",
+    "name": "Udumalaipettai",
+    "constituencyNo": 192,
+    "districtId": "tiruppur",
+    "mlaName": "M. Jayakumar",
+    "mlaParty": "DMK",
+    "center": [
+      11.1585,
+      77.3161
+    ],
+    "population": "2,80,400",
+    "areaSqKm": 14.9
+  },
+  {
+    "id": "madathukulam",
+    "name": "Madathukulam",
+    "constituencyNo": 193,
+    "districtId": "tiruppur",
+    "mlaName": "R. Jayaramakrishnan",
+    "mlaParty": "DMK",
+    "center": [
+      11.1835,
+      77.3411
+    ],
+    "population": "2,94,100",
+    "areaSqKm": 18.6
+  },
+  {
+    "id": "gummidipoondi",
+    "name": "Gummidipoondi",
+    "constituencyNo": 194,
+    "districtId": "tiruvallur",
+    "mlaName": "S. Vijayakumar",
+    "mlaParty": "TVK",
+    "center": [
+      13.0188,
+      79.8829
+    ],
+    "population": "3,07,800",
+    "areaSqKm": 22.3
+  },
+  {
+    "id": "ponneri",
+    "name": "Ponneri",
+    "constituencyNo": 195,
+    "districtId": "tiruvallur",
+    "mlaName": "M. S. Ravi",
+    "mlaParty": "TVK",
+    "center": [
+      13.0438,
+      79.9079
+    ],
+    "population": "3,21,500",
+    "areaSqKm": 26
+  },
+  {
+    "id": "tiruttani",
+    "name": "Tiruttani",
+    "constituencyNo": 196,
+    "districtId": "tiruvallur",
+    "mlaName": "G. Hari",
+    "mlaParty": "AIADMK",
+    "center": [
+      13.0688,
+      79.9329
+    ],
+    "population": "3,35,200",
+    "areaSqKm": 29.7
+  },
+  {
+    "id": "thiruvallur",
+    "name": "Thiruvallur",
+    "constituencyNo": 197,
+    "districtId": "tiruvallur",
+    "mlaName": "T. Arunkumar",
+    "mlaParty": "TVK",
+    "center": [
+      13.0938,
+      79.8829
+    ],
+    "population": "3,48,900",
+    "areaSqKm": 33.4
+  },
+  {
+    "id": "poonamallee",
+    "name": "Poonamallee",
+    "constituencyNo": 198,
+    "districtId": "tiruvallur",
+    "mlaName": "Prakasam R.",
+    "mlaParty": "TVK",
+    "center": [
+      13.1188,
+      79.9079
+    ],
+    "population": "3,62,600",
+    "areaSqKm": 37.1
+  },
+  {
+    "id": "avadi",
+    "name": "Avadi",
+    "constituencyNo": 199,
+    "districtId": "tiruvallur",
+    "mlaName": "R. Ramesh Kumar",
+    "mlaParty": "TVK",
+    "center": [
+      13.1438,
+      79.9329
+    ],
+    "population": "2,16,300",
+    "areaSqKm": 8.8
+  },
+  {
+    "id": "maduravoyal",
+    "name": "Maduravoyal",
+    "constituencyNo": 200,
+    "districtId": "tiruvallur",
+    "mlaName": "P. Rhevanth Charan",
+    "mlaParty": "TVK",
+    "center": [
+      13.1688,
+      79.8829
+    ],
+    "population": "2,30,000",
+    "areaSqKm": 12.5
+  },
+  {
+    "id": "ambattur",
+    "name": "Ambattur",
+    "constituencyNo": 201,
+    "districtId": "tiruvallur",
+    "mlaName": "G. Balamurugan",
+    "mlaParty": "TVK",
+    "center": [
+      13.1938,
+      79.9079
+    ],
+    "population": "2,43,700",
+    "areaSqKm": 16.2
+  },
+  {
+    "id": "madhavaram",
+    "name": "Madhavaram",
+    "constituencyNo": 202,
+    "districtId": "tiruvallur",
+    "mlaName": "M. L. Vijay Prabhu",
+    "mlaParty": "TVK",
+    "center": [
+      13.2188,
+      79.9329
+    ],
+    "population": "2,57,400",
+    "areaSqKm": 19.9
+  },
+  {
+    "id": "thiruvorriyur",
+    "name": "Thiruvorriyur",
+    "constituencyNo": 203,
+    "districtId": "tiruvallur",
+    "mlaName": "N. Senthil Kumar",
+    "mlaParty": "TVK",
+    "center": [
+      13.2438,
+      79.8829
+    ],
+    "population": "2,71,100",
+    "areaSqKm": 23.6
+  },
+  {
+    "id": "chengam",
+    "name": "Chengam",
+    "constituencyNo": 204,
+    "districtId": "tiruvannamalai",
+    "mlaName": "S. Velu",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.1253,
+      79.0497
+    ],
+    "population": "2,84,800",
+    "areaSqKm": 27.3
+  },
+  {
+    "id": "tiruvannamalai",
+    "name": "Tiruvannamalai",
+    "constituencyNo": 205,
+    "districtId": "tiruvannamalai",
+    "mlaName": "E. V. Velu",
+    "mlaParty": "DMK",
+    "center": [
+      12.1503,
+      79.0747
+    ],
+    "population": "2,98,500",
+    "areaSqKm": 31
+  },
+  {
+    "id": "kilpennathur",
+    "name": "Kilpennathur",
+    "constituencyNo": 206,
+    "districtId": "tiruvannamalai",
+    "mlaName": "S. Ramachandran",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.1753,
+      79.0997
+    ],
+    "population": "3,12,200",
+    "areaSqKm": 34.7
+  },
+  {
+    "id": "kalasapakkam",
+    "name": "Kalasapakkam",
+    "constituencyNo": 207,
+    "districtId": "tiruvannamalai",
+    "mlaName": "Agri S. S. Krishnamurthy",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.2003,
+      79.0497
+    ],
+    "population": "3,25,900",
+    "areaSqKm": 38.4
+  },
+  {
+    "id": "polur",
+    "name": "Polur",
+    "constituencyNo": 208,
+    "districtId": "tiruvannamalai",
+    "mlaName": "R. Abishek",
+    "mlaParty": "TVK",
+    "center": [
+      12.2253,
+      79.0747
+    ],
+    "population": "3,39,600",
+    "areaSqKm": 10.1
+  },
+  {
+    "id": "arani",
+    "name": "Arani",
+    "constituencyNo": 209,
+    "districtId": "tiruvannamalai",
+    "mlaName": "L. Jaya Sudha",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.2503,
+      79.0997
+    ],
+    "population": "3,53,300",
+    "areaSqKm": 13.8
+  },
+  {
+    "id": "cheyyar",
+    "name": "Cheyyar",
+    "constituencyNo": 210,
+    "districtId": "tiruvannamalai",
+    "mlaName": "Mukkur N. Subramanian",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.2753,
+      79.0497
+    ],
+    "population": "3,67,000",
+    "areaSqKm": 17.5
+  },
+  {
+    "id": "vandavasi",
+    "name": "Vandavasi",
+    "constituencyNo": 211,
+    "districtId": "tiruvannamalai",
+    "mlaName": "S. Ambethkumar",
+    "mlaParty": "DMK",
+    "center": [
+      12.3003,
+      79.0747
+    ],
+    "population": "2,20,700",
+    "areaSqKm": 21.2
+  },
+  {
+    "id": "thiruthuraipoondi",
+    "name": "Thiruthuraipoondi",
+    "constituencyNo": 212,
+    "districtId": "tiruvarur",
+    "mlaName": "K. Marimuthu",
+    "mlaParty": "CPI",
+    "center": [
+      10.7235,
+      79.6108
+    ],
+    "population": "2,34,400",
+    "areaSqKm": 24.9
+  },
+  {
+    "id": "mannargudi",
+    "name": "Mannargudi",
+    "constituencyNo": 213,
+    "districtId": "tiruvarur",
+    "mlaName": "S. Kamaraj",
+    "mlaParty": "AMMK",
+    "center": [
+      10.7485,
+      79.6358
+    ],
+    "population": "2,48,100",
+    "areaSqKm": 28.6
+  },
+  {
+    "id": "thiruvarur",
+    "name": "Thiruvarur",
+    "constituencyNo": 214,
+    "districtId": "tiruvarur",
+    "mlaName": "Kalaivanan Poondi K.",
+    "mlaParty": "DMK",
+    "center": [
+      10.7735,
+      79.6608
+    ],
+    "population": "2,61,800",
+    "areaSqKm": 32.3
+  },
+  {
+    "id": "nannilam",
+    "name": "Nannilam",
+    "constituencyNo": 215,
+    "districtId": "tiruvarur",
+    "mlaName": "R. Kamaraj",
+    "mlaParty": "AIADMK",
+    "center": [
+      10.7985,
+      79.6108
+    ],
+    "population": "2,75,500",
+    "areaSqKm": 36
+  },
+  {
+    "id": "katpadi",
+    "name": "Katpadi",
+    "constituencyNo": 216,
+    "districtId": "vellore",
+    "mlaName": "M. Sudhakar",
+    "mlaParty": "TVK",
+    "center": [
+      12.854,
+      79.1075
+    ],
+    "population": "2,89,200",
+    "areaSqKm": 39.7
+  },
+  {
+    "id": "vellore",
+    "name": "Vellore",
+    "constituencyNo": 217,
+    "districtId": "vellore",
+    "mlaName": "M. M. Vinoth Kannan",
+    "mlaParty": "TVK",
+    "center": [
+      12.879,
+      79.1325
+    ],
+    "population": "3,02,900",
+    "areaSqKm": 11.4
+  },
+  {
+    "id": "anaikattu",
+    "name": "Anaikattu",
+    "constituencyNo": 218,
+    "districtId": "vellore",
+    "mlaName": "D. Velazhagan",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.904,
+      79.1575
+    ],
+    "population": "3,16,600",
+    "areaSqKm": 15.1
+  },
+  {
+    "id": "kilvaithinankuppam",
+    "name": "Kilvaithinankuppam",
+    "constituencyNo": 219,
+    "districtId": "vellore",
+    "mlaName": "E. Thenral Kumar",
+    "mlaParty": "TVK",
+    "center": [
+      12.929,
+      79.1075
+    ],
+    "population": "3,30,300",
+    "areaSqKm": 18.8
+  },
+  {
+    "id": "gudiyattam",
+    "name": "Gudiyattam",
+    "constituencyNo": 220,
+    "districtId": "vellore",
+    "mlaName": "K. Sindhu",
+    "mlaParty": "TVK",
+    "center": [
+      12.954,
+      79.1325
+    ],
+    "population": "3,44,000",
+    "areaSqKm": 22.5
+  },
+  {
+    "id": "gingee",
+    "name": "Gingee",
+    "constituencyNo": 221,
+    "districtId": "viluppuram",
+    "mlaName": "A. Ganeshkumar",
+    "mlaParty": "PMK",
+    "center": [
+      11.8526,
+      79.4611
+    ],
+    "population": "3,57,700",
+    "areaSqKm": 26.2
+  },
+  {
+    "id": "mailam",
+    "name": "Mailam",
+    "constituencyNo": 222,
+    "districtId": "viluppuram",
+    "mlaName": "C. V. Shanmugam",
+    "mlaParty": "AIADMK",
+    "center": [
+      11.8776,
+      79.4861
+    ],
+    "population": "2,11,400",
+    "areaSqKm": 29.9
+  },
+  {
+    "id": "tindivanam",
+    "name": "Tindivanam",
+    "constituencyNo": 223,
+    "districtId": "viluppuram",
+    "mlaName": "Vanni Arasu",
+    "mlaParty": "VCK",
+    "center": [
+      11.9026,
+      79.5111
+    ],
+    "population": "2,25,100",
+    "areaSqKm": 33.6
+  },
+  {
+    "id": "vanur",
+    "name": "Vanur",
+    "constituencyNo": 224,
+    "districtId": "viluppuram",
+    "mlaName": "D. Gowtham",
+    "mlaParty": "DMK",
+    "center": [
+      11.9276,
+      79.4611
+    ],
+    "population": "2,38,800",
+    "areaSqKm": 37.3
+  },
+  {
+    "id": "villupuram",
+    "name": "Villupuram",
+    "constituencyNo": 225,
+    "districtId": "viluppuram",
+    "mlaName": "R. Lakshmanan",
+    "mlaParty": "DMK",
+    "center": [
+      11.9526,
+      79.4861
+    ],
+    "population": "2,52,500",
+    "areaSqKm": 9
+  },
+  {
+    "id": "vikravandi",
+    "name": "Vikravandi",
+    "constituencyNo": 226,
+    "districtId": "viluppuram",
+    "mlaName": "C. Sivakumar",
+    "mlaParty": "PMK",
+    "center": [
+      11.9776,
+      79.5111
+    ],
+    "population": "2,66,200",
+    "areaSqKm": 12.7
+  },
+  {
+    "id": "tirukkoyilur",
+    "name": "Tirukkoyilur",
+    "constituencyNo": 227,
+    "districtId": "viluppuram",
+    "mlaName": "S. Palanisamy",
+    "mlaParty": "AIADMK",
+    "center": [
+      12.0026,
+      79.4611
+    ],
+    "population": "2,79,900",
+    "areaSqKm": 16.4
+  },
+  {
+    "id": "rajapalayam",
+    "name": "Rajapalayam",
+    "constituencyNo": 228,
+    "districtId": "virudhunagar",
+    "mlaName": "K. Jegadeshwari",
+    "mlaParty": "TVK",
+    "center": [
+      9.4997,
+      77.9264
+    ],
+    "population": "2,93,600",
+    "areaSqKm": 20.1
+  },
+  {
+    "id": "srivilliputhur",
+    "name": "Srivilliputhur",
+    "constituencyNo": 229,
+    "districtId": "virudhunagar",
+    "mlaName": "A. Karthik",
+    "mlaParty": "TVK",
+    "center": [
+      9.5247,
+      77.9514
+    ],
+    "population": "3,07,300",
+    "areaSqKm": 23.8
+  },
+  {
+    "id": "sattur",
+    "name": "Sattur",
+    "constituencyNo": 230,
+    "districtId": "virudhunagar",
+    "mlaName": "A. Kadarkarairaj",
+    "mlaParty": "DMK",
+    "center": [
+      9.5497,
+      77.9764
+    ],
+    "population": "3,21,000",
+    "areaSqKm": 27.5
+  },
+  {
+    "id": "sivakasi",
+    "name": "Sivakasi",
+    "constituencyNo": 231,
+    "districtId": "virudhunagar",
+    "mlaName": "S. Keerthana",
+    "mlaParty": "TVK",
+    "center": [
+      9.5747,
+      77.9264
+    ],
+    "population": "3,34,700",
+    "areaSqKm": 31.2
+  },
+  {
+    "id": "virudhunagar",
+    "name": "Virudhunagar",
+    "constituencyNo": 232,
+    "districtId": "virudhunagar",
+    "mlaName": "P. Selvam",
+    "mlaParty": "TVK",
+    "center": [
+      9.5997,
+      77.9514
+    ],
+    "population": "3,48,400",
+    "areaSqKm": 34.9
+  },
+  {
+    "id": "aruppukottai",
+    "name": "Aruppukottai",
+    "constituencyNo": 233,
+    "districtId": "virudhunagar",
+    "mlaName": "Sattur Ramachandran",
+    "mlaParty": "DMK",
+    "center": [
+      9.6247,
+      77.9764
+    ],
+    "population": "3,62,100",
+    "areaSqKm": 38.6
+  },
+  {
+    "id": "tiruchuli",
+    "name": "Tiruchuli",
+    "constituencyNo": 234,
+    "districtId": "virudhunagar",
+    "mlaName": "Thangam Thennarasu",
+    "mlaParty": "DMK",
+    "center": [
+      9.6497,
+      77.9264
+    ],
+    "population": "2,15,800",
+    "areaSqKm": 10.3
+  }
+]

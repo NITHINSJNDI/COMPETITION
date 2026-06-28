@@ -1,0 +1,344 @@
+[
+  {
+    "id": "ariyalur",
+    "name": "Ariyalur",
+    "center": [
+      11.14,
+      79.08
+    ],
+    "collectorName": "Thiru. T. Anbalagan, IAS"
+  },
+  {
+    "id": "chengalpattu",
+    "name": "Chengalpattu",
+    "center": [
+      12.684,
+      79.983
+    ],
+    "collectorName": "Thiru. M. Veerappan, IAS"
+  },
+  {
+    "id": "chennai",
+    "name": "Chennai",
+    "center": [
+      13.0827,
+      80.2707
+    ],
+    "collectorName": "Tmt. S. Malathi Helen, IAS"
+  },
+  {
+    "id": "coimbatore",
+    "name": "Coimbatore",
+    "center": [
+      11.0168,
+      76.9558
+    ],
+    "collectorName": "Thiru. Kranthi Kumar Pati, IAS"
+  },
+  {
+    "id": "cuddalore",
+    "name": "Cuddalore",
+    "center": [
+      11.748,
+      79.7714
+    ],
+    "collectorName": "Thiru. C. Suresh Kumar, IAS"
+  },
+  {
+    "id": "dharmapuri",
+    "name": "Dharmapuri",
+    "center": [
+      12.1211,
+      78.1582
+    ],
+    "collectorName": "Thiru. V. Saravanan, IAS"
+  },
+  {
+    "id": "dindigul",
+    "name": "Dindigul",
+    "center": [
+      10.3673,
+      77.9803
+    ],
+    "collectorName": "Thiru. S. Visakan, IAS"
+  },
+  {
+    "id": "erode",
+    "name": "Erode",
+    "center": [
+      11.341,
+      77.7172
+    ],
+    "collectorName": "Thiru. H. Krishnanunni, IAS"
+  },
+  {
+    "id": "kallakurichi",
+    "name": "Kallakurichi",
+    "center": [
+      11.7384,
+      78.9639
+    ],
+    "collectorName": "Tmt. J.E. Padmaja, IAS"
+  },
+  {
+    "id": "kanchipuram",
+    "name": "Kanchipuram",
+    "center": [
+      12.8342,
+      79.7036
+    ],
+    "collectorName": "Thiru. R. Rajesh Kumar, IAS"
+  },
+  {
+    "id": "kanyakumari",
+    "name": "Kanyakumari",
+    "center": [
+      8.0883,
+      77.5385
+    ],
+    "collectorName": "Thiru. M. Prathap, IAS"
+  },
+  {
+    "id": "karur",
+    "name": "Karur",
+    "center": [
+      10.9601,
+      78.0766
+    ],
+    "collectorName": "Thiru. T. Prabhu, IAS"
+  },
+  {
+    "id": "krishnagiri",
+    "name": "Krishnagiri",
+    "center": [
+      12.5186,
+      78.2137
+    ],
+    "collectorName": "Thiru. P. Suresh Kumar, IAS"
+  },
+  {
+    "id": "madurai",
+    "name": "Madurai",
+    "center": [
+      9.9252,
+      78.1198
+    ],
+    "collectorName": "Thiru. P. Akash, IAS"
+  },
+  {
+    "id": "mayiladuthurai",
+    "name": "Mayiladuthurai",
+    "center": [
+      11.1017,
+      79.6522
+    ],
+    "collectorName": "Thiru. A.P. Mahalingam, IAS"
+  },
+  {
+    "id": "nagapattinam",
+    "name": "Nagapattinam",
+    "center": [
+      10.7672,
+      79.8444
+    ],
+    "collectorName": "Thiru. K.J. Praveenkumar, IAS"
+  },
+  {
+    "id": "namakkal",
+    "name": "Namakkal",
+    "center": [
+      11.2189,
+      78.1674
+    ],
+    "collectorName": "Thiru. L. Madhubalan, IAS"
+  },
+  {
+    "id": "nilgiris",
+    "name": "Nilgiris",
+    "center": [
+      11.4102,
+      76.695
+    ],
+    "collectorName": "Thiru. Innocent Divya, IAS"
+  },
+  {
+    "id": "perambalur",
+    "name": "Perambalur",
+    "center": [
+      11.2342,
+      78.8821
+    ],
+    "collectorName": "Thiru. P. Rajeswari, IAS"
+  },
+  {
+    "id": "pudukkottai",
+    "name": "Pudukkottai",
+    "center": [
+      10.3797,
+      78.8208
+    ],
+    "collectorName": "Thiru. K. Vishnu Chandran, IAS"
+  },
+  {
+    "id": "ramanathapuram",
+    "name": "Ramanathapuram",
+    "center": [
+      9.3639,
+      78.8395
+    ],
+    "collectorName": "Thiru. B. Vishnu Chandran, IAS"
+  },
+  {
+    "id": "ranipet",
+    "name": "Ranipet",
+    "center": [
+      12.9272,
+      79.3328
+    ],
+    "collectorName": "Tmt. N. Priya, IAS"
+  },
+  {
+    "id": "salem",
+    "name": "Salem",
+    "center": [
+      11.6643,
+      78.146
+    ],
+    "collectorName": "Dr. A. Arun Thamburaj, IAS"
+  },
+  {
+    "id": "sivaganga",
+    "name": "Sivaganga",
+    "center": [
+      9.8433,
+      78.4809
+    ],
+    "collectorName": "Thiru. P. Madhavan, IAS"
+  },
+  {
+    "id": "tenkasi",
+    "name": "Tenkasi",
+    "center": [
+      8.9591,
+      77.3151
+    ],
+    "collectorName": "Thiru. A.K. Kamal Kishore, IAS"
+  },
+  {
+    "id": "thanjavur",
+    "name": "Thanjavur",
+    "center": [
+      10.787,
+      79.1378
+    ],
+    "collectorName": "Tmt. R. Revathi, IAS"
+  },
+  {
+    "id": "theni",
+    "name": "Theni",
+    "center": [
+      10.0104,
+      77.4768
+    ],
+    "collectorName": "Thiru. R. Vaithiyanathan, IAS"
+  },
+  {
+    "id": "thoothukudi",
+    "name": "Thoothukudi",
+    "center": [
+      8.7642,
+      78.1348
+    ],
+    "collectorName": "Thiru. K. Elambahavath, IAS"
+  },
+  {
+    "id": "tiruchirappalli",
+    "name": "Tiruchirappalli",
+    "center": [
+      10.7905,
+      78.7047
+    ],
+    "collectorName": "Thiru. Pradeep Dayal, IAS"
+  },
+  {
+    "id": "tirunelveli",
+    "name": "Tirunelveli",
+    "center": [
+      8.7139,
+      77.7567
+    ],
+    "collectorName": "Thiru. Anand Mohan, IAS"
+  },
+  {
+    "id": "tirupathur",
+    "name": "Tirupathur",
+    "center": [
+      12.4934,
+      78.5684
+    ],
+    "collectorName": "Tmt. B. Chandra Mouli, IAS"
+  },
+  {
+    "id": "tiruppur",
+    "name": "Tiruppur",
+    "center": [
+      11.1085,
+      77.3411
+    ],
+    "collectorName": "Thiru. T. Christuraj, IAS"
+  },
+  {
+    "id": "tiruvallur",
+    "name": "Tiruvallur",
+    "center": [
+      13.1438,
+      79.9079
+    ],
+    "collectorName": "Thiru. T. Anbarasan, IAS"
+  },
+  {
+    "id": "tiruvannamalai",
+    "name": "Tiruvannamalai",
+    "center": [
+      12.2253,
+      79.0747
+    ],
+    "collectorName": "Tmt. Vandana Garg, IAS"
+  },
+  {
+    "id": "tiruvarur",
+    "name": "Tiruvarur",
+    "center": [
+      10.7735,
+      79.6358
+    ],
+    "collectorName": "Thiru. K. Rajamani, IAS"
+  },
+  {
+    "id": "vellore",
+    "name": "Vellore",
+    "center": [
+      12.9165,
+      79.1325
+    ],
+    "collectorName": "Tmt. P.S. Lalitha Alex, IAS"
+  },
+  {
+    "id": "viluppuram",
+    "name": "Viluppuram",
+    "center": [
+      11.9401,
+      79.4861
+    ],
+    "collectorName": "Thiru. C. Palani Kumar, IAS"
+  },
+  {
+    "id": "virudhunagar",
+    "name": "Virudhunagar",
+    "center": [
+      9.5872,
+      77.9514
+    ],
+    "collectorName": "Thiru. J.S. Suresh Kumar, IAS"
+  }
+]

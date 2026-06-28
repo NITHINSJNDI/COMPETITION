@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@400;500;600;700&family=Tiro+Tamil:ital@0;1&family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Source+Sans+3:wght@400;500;600;700;800&family=Roboto+Slab:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Source Sans 3", "Noto Sans Tamil", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Roboto Slab", "Tiro Tamil", Georgia, serif;
+  --font-serif: "Merriweather", "Tiro Tamil", Georgia, serif;
+  --font-tamil: "Noto Sans Tamil", "Tiro Tamil", sans-serif;
+
+  /* Government of Tamil Nadu inspired palette */
+  --color-gov-maroon-950: #2b0a10;
+  --color-gov-maroon-900: #3d0f17;
+  --color-gov-maroon-800: #5a131e;
+  --color-gov-maroon-700: #7a1825;
+  --color-gov-maroon-600: #8f1d2c;
+  --color-gov-maroon-500: #a52a3a;
+  --color-gov-gold-700: #8a6a1f;
+  --color-gov-gold-600: #a9842a;
+  --color-gov-gold-500: #c79a32;
+  --color-gov-gold-400: #d9b65a;
+  --color-gov-gold-100: #f6ecd2;
+  --color-gov-cream-100: #fdfaf3;
+  --color-gov-cream-200: #f8f1e1;
+  --color-gov-green-700: #1f5c3a;
+  --color-gov-green-800: #163f28;
+  --color-gov-green-600: #2a7a4d;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #fdfaf3; /* gov-cream-100 */
+  color: #2b0a10; /* gov-maroon-950 */
+}
+
+/* Subtle official letterhead-style background texture */
+.gov-texture-bg {
+  background-image:
+    radial-gradient(circle at 1px 1px, rgba(138, 106, 31, 0.08) 1px, transparent 0);
+  background-size: 22px 22px;
+}
+
+/* Formal civic-registry aesthetic custom animations & helper styles */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Tricolour-inspired top accent strip used under header bands */
+.gov-tricolor-strip {
+  height: 4px;
+  background: linear-gradient(to right, #c79a32 0%, #c79a32 33%, #8a6a1f 33%, #8a6a1f 66%, #1f5c3a 66%, #1f5c3a 100%);
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Community Hero",
+  "description": "A hyperlocal problem-solving platform where citizens can report local issues such as potholes, garbage, or broken streetlights, and track their resolution status.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
