@@ -17,6 +17,11 @@
     "allowImportingTsExtensions": true,
     "noEmit": true,
     "strict": false,
-    "noImplicitAny": false
-  }
+    "noImplicitAny": false,
+    "noImplicitReturns": false,
+    "strictNullChecks": false,
+    "strictFunctionTypes": false,
+    "strictPropertyInitialization": false
+  },
+  "exclude": ["node_modules", "dist"]
 }
